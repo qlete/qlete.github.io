@@ -24,4 +24,4 @@ nav_order: 4
 
 ### **Trainings**
 
-* [Specialised CEER training on Electricity Market Design and Renewables](https://ceertraining.eu/), 21-23 September 2022, Instructor
+* Specialised CEER training on Electricity Market Design and Renewables, 21-23 September 2022, Instructor
