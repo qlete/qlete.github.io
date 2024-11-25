@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://n.ethz.ch/~qulete/sitemap.xml
+Sitemap: https://qlete.github.io/sitemap.xml
