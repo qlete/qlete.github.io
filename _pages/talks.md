@@ -9,6 +9,8 @@ nav_order: 3
 
 --------------------------------------------------------------------------------------------
 
+* 34th European Conference on Operational Research, [Forward electricity markets with nonconvexities](../assets/docs/EURO2025.pdf), Leeds, June 25, 2025.
+
 * Workshop on Future Electricity Tariffs, [Optimal Fixed Charges for Future Electricity Tariffs](../assets/docs/04_Lété_FSR_Tariff_Slides.pdf), Florence School of Regulation, June 21, 2023.
 
 * VAME Workshop, [Long-Run Equilibrium of Zonal Pricing Followed by Market-Based Re-dispatch](../assets/docs/VAME2022_QL_Slides.pdf), Brescia, May 10, 2022.
