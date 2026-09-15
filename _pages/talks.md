@@ -9,6 +9,8 @@ nav_order: 3
 
 --------------------------------------------------------------------------------------------
 
+* 24th Conference of the International Federation of Operational Research Societies, [Pricing Nonconvexities in Sequential Electricity Markets](../assets/docs/IFORS2026.pdf), Vienna, July 14, 2026.
+
 * 34th European Conference on Operational Research, [Forward electricity markets with nonconvexities](../assets/docs/EURO2025.pdf), Leeds, June 25, 2025.
 
 * Workshop on Future Electricity Tariffs, [Optimal Fixed Charges for Future Electricity Tariffs](../assets/docs/04_Lété_FSR_Tariff_Slides.pdf), Florence School of Regulation, June 21, 2023.
